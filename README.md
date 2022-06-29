@@ -20,8 +20,4 @@ Original URL: [https://yeged.github.io/simon-game/](https://yeged.github.io/simo
 
 Original URL: [https://codesandbox.io/s/github/yeged/KeeperApp](https://codesandbox.io/s/github/yeged/KeeperApp)
 
-## Front-End-Web-UI-Bootstrap-4
 
-## React with Classes
-
-## Authentication and Security
